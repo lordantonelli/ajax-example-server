@@ -1,0 +1,218 @@
+[
+  {
+    "IBGE": 11,
+    "Estado": "Rondônia",
+    "UF": "RO",
+    "Região": "Região Norte",
+    "Qtd Mun": 52,
+    "Sintaxe": "11'RO'"
+  },
+  {
+    "IBGE": 12,
+    "Estado": "Acre",
+    "UF": "AC",
+    "Região": "Região Norte",
+    "Qtd Mun": 22,
+    "Sintaxe": "12'AC'"
+  },
+  {
+    "IBGE": 13,
+    "Estado": "Amazonas",
+    "UF": "AM",
+    "Região": "Região Norte",
+    "Qtd Mun": 62,
+    "Sintaxe": "13'AM'"
+  },
+  {
+    "IBGE": 14,
+    "Estado": "Roraima",
+    "UF": "RR",
+    "Região": "Região Norte",
+    "Qtd Mun": 15,
+    "Sintaxe": "14'RR'"
+  },
+  {
+    "IBGE": 15,
+    "Estado": "Pará",
+    "UF": "PA",
+    "Região": "Região Norte",
+    "Qtd Mun": 144,
+    "Sintaxe": "15'PA'"
+  },
+  {
+    "IBGE": 16,
+    "Estado": "Amapá",
+    "UF": "AP",
+    "Região": "Região Norte",
+    "Qtd Mun": 16,
+    "Sintaxe": "16'AP'"
+  },
+  {
+    "IBGE": 17,
+    "Estado": "Tocantins",
+    "UF": "TO",
+    "Região": "Região Norte",
+    "Qtd Mun": 139,
+    "Sintaxe": "17'TO'"
+  },
+  {
+    "IBGE": 21,
+    "Estado": "Maranhão",
+    "UF": "MA",
+    "Região": "Região Nordeste",
+    "Qtd Mun": 217,
+    "Sintaxe": "21'MA'"
+  },
+  {
+    "IBGE": 22,
+    "Estado": "Piauí",
+    "UF": "PI",
+    "Região": "Região Nordeste",
+    "Qtd Mun": 224,
+    "Sintaxe": "22'PI'"
+  },
+  {
+    "IBGE": 23,
+    "Estado": "Ceará",
+    "UF": "CE",
+    "Região": "Região Nordeste",
+    "Qtd Mun": 184,
+    "Sintaxe": "23'CE'"
+  },
+  {
+    "IBGE": 24,
+    "Estado": "Rio Grande do Norte",
+    "UF": "RN",
+    "Região": "Região Nordeste",
+    "Qtd Mun": 167,
+    "Sintaxe": "24'RN'"
+  },
+  {
+    "IBGE": 25,
+    "Estado": "Paraíba",
+    "UF": "PB",
+    "Região": "Região Nordeste",
+    "Qtd Mun": 223,
+    "Sintaxe": "25'PB'"
+  },
+  {
+    "IBGE": 26,
+    "Estado": "Pernambuco",
+    "UF": "PE",
+    "Região": "Região Nordeste",
+    "Qtd Mun": 185,
+    "Sintaxe": "26'PE'"
+  },
+  {
+    "IBGE": 27,
+    "Estado": "Alagoas",
+    "UF": "AL",
+    "Região": "Região Nordeste",
+    "Qtd Mun": 102,
+    "Sintaxe": "27'AL'"
+  },
+  {
+    "IBGE": 28,
+    "Estado": "Sergipe",
+    "UF": "SE",
+    "Região": "Região Nordeste",
+    "Qtd Mun": 75,
+    "Sintaxe": "28'SE'"
+  },
+  {
+    "IBGE": 29,
+    "Estado": "Bahia",
+    "UF": "BA",
+    "Região": "Região Nordeste",
+    "Qtd Mun": 417,
+    "Sintaxe": "29'BA'"
+  },
+  {
+    "IBGE": 31,
+    "Estado": "Minas Gerais",
+    "UF": "MG",
+    "Região": "Região Sudeste",
+    "Qtd Mun": 853,
+    "Sintaxe": "31'MG'"
+  },
+  {
+    "IBGE": 32,
+    "Estado": "Espírito Santo",
+    "UF": "ES",
+    "Região": "Região Sudeste",
+    "Qtd Mun": 78,
+    "Sintaxe": "32'ES'"
+  },
+  {
+    "IBGE": 33,
+    "Estado": "Rio de Janeiro",
+    "UF": "RJ",
+    "Região": "Região Sudeste",
+    "Qtd Mun": 92,
+    "Sintaxe": "33'RJ'"
+  },
+  {
+    "IBGE": 35,
+    "Estado": "São Paulo",
+    "UF": "SP",
+    "Região": "Região Sudeste",
+    "Qtd Mun": 645,
+    "Sintaxe": "35'SP'"
+  },
+  {
+    "IBGE": 41,
+    "Estado": "Paraná",
+    "UF": "PR",
+    "Região": "Região Sul",
+    "Qtd Mun": 399,
+    "Sintaxe": "41'PR'"
+  },
+  {
+    "IBGE": 42,
+    "Estado": "Santa Catarina",
+    "UF": "SC",
+    "Região": "Região Sul",
+    "Qtd Mun": 295,
+    "Sintaxe": "42'SC'"
+  },
+  {
+    "IBGE": 43,
+    "Estado": "Rio Grande do Sul",
+    "UF": "RS",
+    "Região": "Região Sul",
+    "Qtd Mun": 497,
+    "Sintaxe": "43'RS'"
+  },
+  {
+    "IBGE": 50,
+    "Estado": "Mato Grosso do Sul",
+    "UF": "MS",
+    "Região": "Região Centro-Oeste",
+    "Qtd Mun": 79,
+    "Sintaxe": "50'MS'"
+  },
+  {
+    "IBGE": 51,
+    "Estado": "Mato Grosso",
+    "UF": "MT",
+    "Região": "Região Centro-Oeste",
+    "Qtd Mun": 141,
+    "Sintaxe": "51'MT'"
+  },
+  {
+    "IBGE": 52,
+    "Estado": "Goiás",
+    "UF": "GO",
+    "Região": "Região Centro-Oeste",
+    "Qtd Mun": 246,
+    "Sintaxe": "52'GO'"
+  },
+  {
+    "IBGE": 53,
+    "Estado": "Distrito Federal",
+    "UF": "DF",
+    "Região": "Região Centro-Oeste",
+    "Qtd Mun": 1,
+    "Sintaxe": "53'DF'"
+  }
+]
