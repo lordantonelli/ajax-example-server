@@ -1,4 +1,7 @@
 <?php
+// Carrega cabeçalhos CORS (arquivo global)
+require_once __DIR__ . '/cors.php';
+
 // Retorna dados do tipo JSON
 header('Content-Type: application/json');
 
